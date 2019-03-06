@@ -1,0 +1,2 @@
+# Django_antd_MongoDB
+使用Django+ant Design Pro+MongoDB编写的Demo，主要实现前后端http通信以及MongoDB数据库数据的存取，模拟数据传输
