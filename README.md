@@ -9,6 +9,10 @@
 
 **注：由于是学习时编写，内部有很多无用代码，项目内的主要代码在```API```应用中编写**
 
+--------------------------------------------------------------------------------------------------------------------------------
+
 **`ant design pro`学习地址（该项目使用v1版本）：[ant design pro](https://v1.pro.ant.design/docs/getting-started-cn)**
 
 **`django`学习，推荐一个比较不错的博客：[django](http://www.liujiangblog.com/course/django/2)**
+
+**`mongDB`学习地址：[菜鸟教程](https://www.runoob.com/mongodb/mongodb-tutorial.html)**
